@@ -1,11 +1,13 @@
 {
-  "name": "@slimecode/common-types",
+  "name": "@slimecode/slimecode-types",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
+  "private": true,
   "scripts": {
     "build-common": "tsc"
   },
-  "author": "",
-  "license": "ISC"
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
 }
