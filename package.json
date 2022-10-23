@@ -1,0 +1,11 @@
+{
+  "name": "@slimecode/common-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "build-common": "tsc"
+  },
+  "author": "",
+  "license": "ISC"
+}
